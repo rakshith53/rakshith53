@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rakshith53
-- 👀 I’m interested in C++ Programming, WebApplication Development.
-- 🌱 I’m currently enhancing my WebApplication Development skils.
+- 👋 Hi, I’m R Rakshith
+- 👀 I’m interested in Data Engineering and Big Data Technologies.
+- 🌱 I’m currently enhancing my skills in Apache Spark, Scala, Hive, MySQL, MongoDB and PowerBi.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rakshithravi5@gmail.com
 
